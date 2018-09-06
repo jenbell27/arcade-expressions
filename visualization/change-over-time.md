@@ -58,6 +58,6 @@ Abs($feature.FIELD_NAME_YEAR1-$feature.FIELD_NAME_YEAR2)
 
 ## Example output
 
-See [this web map](https://urbanobservatory.maps.arcgis.com/home/webmap/viewer.html?webmap=c81328482ced43a4ab455c0d7563d0f4) for examples of how to use this expression in ArcGIS Online. Red trees represent a loss in forest area while green trees represent a growth. The larger the symbol the greater the loss or growth.
+See [this web map](https://urbanobservatory.maps.arcgis.com/home/webmap/viewer.html?webmap=c81328482ced43a4ab455c0d7563d0f4) for examples of how to use this expression in ArcGIS Online. Red trees represent a loss in forest area while green trees represent a growth. The larger the symbol the greater the loss or growth. For more information about this expression workflow or the map below, please contact Jennifer Bell at jbell@esri.com.
 
 [![Change Over Time](./images/change-over-time.png)](https://urbanobservatory.maps.arcgis.com/home/webmap/viewer.html?webmap=c81328482ced43a4ab455c0d7563d0f4)
