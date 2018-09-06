@@ -52,6 +52,6 @@ fieldToConvert * factor;
 
 ## Example output
 
-See [this webmap](https://urbanobservatory.maps.arcgis.com/home/webmap/viewer.html?webmap=6211aae5a03148c4b646376e21afef76) for examples of how to use this expression for both visualization and popups in ArcGIS Online. 
+See [this webmap](https://urbanobservatory.maps.arcgis.com/home/webmap/viewer.html?webmap=6211aae5a03148c4b646376e21afef76) for examples of how to use this expression for both visualization and popups in ArcGIS Online. For more information about this expression workflow or the map below, please contact Jennifer Bell at jbell@esri.com.
 
 ![Change Over Time](./images/unit-conversion.png)
